@@ -1,0 +1,29 @@
+.thelab {
+	background-color: #dc6acf;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color:white;
+	font-weight: bold;
+	font-family: "Montserrat", sans-serif;
+	text-align: center;
+}
+
+.shop {
+	background-color: #dc6acf;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color:white;
+	font-weight: bold;
+	font-family: "Montserrat", sans-serif;
+	text-align: center;
+	margin-left: 300px;
+}
+
+a:hover {
+	color: #7b3e19;
+}
+
+a {
+	text-decoration: none;
+	text-align: center;
+}

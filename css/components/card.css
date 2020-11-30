@@ -1,0 +1,70 @@
+.card {
+	padding: 20px 10px;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	background-color: white;
+	margin-bottom: 10px;
+	margin: 10px 50px;
+	text-align: center;
+}
+
+.cards .card {
+	display: inline-block;
+	justify-content: space-around;
+	width: 150px;
+	height: 150px;
+}
+
+.cards {
+	display: flex;
+	justify-content: space-around;
+}
+
+.card h3 {
+	font-size: 15px;
+}
+
+.card p {
+	font-size: 10px;
+}
+
+.flower-card {
+	display: flex;
+	align-items: flex-start;
+	justify-content: flex-start;
+	background-color: white;
+	padding: 30px;
+	margin: 50px 100px;
+}
+
+.flower-card h3 {
+	padding-left: 25px;
+}
+
+.cookie-card {
+	display: flex;
+	align-items: flex-start;
+	justify-content: flex-start;
+	background-color: white;
+	padding: 30px;
+	margin: 50px 100px;
+}
+
+.cookie-card h3 {
+	padding-left: 25px;
+}
+
+.blookie-card {
+	display: flex;
+	align-items: flex-start;
+	justify-content: flex-start;
+	background-color: white;
+	padding: 30px;
+	margin: 50px 100px;
+}
+
+.blookie-card h3 {
+	padding-left: 25px;
+}

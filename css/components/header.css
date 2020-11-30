@@ -1,0 +1,17 @@
+.header {
+	background-color: black;
+	height: 165px;
+	margin-top: -30px;
+}
+
+#logo {
+	text-align: left;
+}
+
+a {
+	color: #dc6acf;
+}
+
+.fas fa-shopping-cart {
+	font-size: 200px;
+}
